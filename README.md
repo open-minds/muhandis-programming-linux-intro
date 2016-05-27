@@ -28,7 +28,9 @@ Feel free to contact us for more :)
 ****
 ### Introduction to GNU/Linux
 A simple introduction to **Break the Ice with GNU/Linux**,
+
 [![Linux inspires](http://img.youtube.com/vi/GfU6ngCVips/0.jpg)](http://www.youtube.com/watch?v=GfU6ngCVips)
+
 
 In this section we've discussed some of GNU/Linux pros and why you should try it, learn it and use it.
 You can start learning the Linux command line from:
