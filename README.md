@@ -14,7 +14,9 @@ And to break the ice with programming we suggest this video for you:
 
 And you can find the slide's code on this repository.
 #### Where to learn programming ?
-You can start from:
+This Infographic [Which Programming Language Should I Learn First?](http://carlcheo.com/startcoding) will help you.
+
+Then you can start learning from:
 * [Udacity](http://udacity.com/)
 * [edX](http://edx.org/)
 * [Coursera](http://coursera.org/)
@@ -22,7 +24,6 @@ You can start from:
 * [Udemy](http://udemy.com/)
 * [ندرس](http://nadrus.com/)
 * [OpenClassrooms](http://openclassrooms.com/)
-
 Feel free to contact us for more :)
 
 ****
