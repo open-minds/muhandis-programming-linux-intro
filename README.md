@@ -37,4 +37,5 @@ You can start learning the Linux command line from:
 * [Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
 ***
+The slides are made using [Reval.js](https://github.com/hakimel/reveal.js/) (you need to try it :D then try [Impress.js](https://github.com/impress/impress.js)).
 This presentation material are open source, you are free to share, use or modify them.
